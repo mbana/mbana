@@ -1,5 +1,5 @@
 <p>
-    A well-rounded Software Engineer with over 10 years of Software Development experience, and I understand what it takes to release a product having worked on the back-end, front-end, testing and finally the deployment aspect of several
+    A well-rounded Software Engineer with over 12 years of Software Development experience, and I understand what it takes to release a product having worked on the back-end, front-end, testing and finally the deployment aspect of several
     products. Reach out to me at <a href="mailto:mohamed@bana.io" target="blank">mohamed@bana.io</a>. Know about my experiences https://bana.io/resume/cv.
 </p>
 
