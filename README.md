@@ -3,6 +3,10 @@
     products. Reach out to me at <a href="mailto:mohamed@bana.io" target="blank">mohamed@bana.io</a>. Know about my experiences https://bana.io/resume/cv.
 </p>
 
+<p>
+    And I love blue clicky mechanical switches.
+</p>
+
 <h5>Connect with me:</h5>
 <p>
     <a href="https://twitter.com/@banaio_ltd" target="blank">
