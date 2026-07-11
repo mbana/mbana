@@ -8,7 +8,7 @@ Hi, I'm Bana. Reach out to me at <a href="mailto:m@bana.io" target="blank">m@ban
 
 ## Technologies
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg' width="64" height="64">](https://kubernetes.io)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width="64" height="64">](hhttps://sashiko.dev)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width="64" height="64"](https://golang.org)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg' width="64" height="64">](https://kubernetes.io)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width="64" height="64">](hhttps://sashiko.dev)  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg' width="64" height="64">](https://golang.org)
 
 <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="64" height="64" />
