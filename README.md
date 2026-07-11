@@ -2,8 +2,12 @@ Hi, I'm Bana. Reach out to me at <a href="mailto:m@bana.io" target="blank">m@ban
 
 ## Information
 
-<a href="https://linkedin.com/in/mbana" target="_blank" rel="noreferrer">
+<!-- <a href="https://linkedin.com/in/mbana" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="64" width="64" />
+</a> -->
+
+<a href="https://linkedin.com/in/mbana" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="64" width="64" />
 </a>
 
 ## Technologies
