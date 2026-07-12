@@ -1,40 +1,29 @@
 #!/usr/bin/env bash
-# Ryu-inspired ASCII terminal banner
-# Usage: add "bash /path/to/ryu_banner.sh" to your .bashrc, .zshrc, or /etc/motd generation
+cat <<'EOF'
+              ╦═╗┬ ┬┬ ┬
+              ╠╦╝└┬┘│ │
+              ╩╚═ ┴ └─┘
 
-# Colors
-RED='\033[1;31m'
-WHITE='\033[1;37m'
-YELLOW='\033[1;33m'
-BLUE='\033[1;34m'
-SKIN='\033[0;33m'
-GRAY='\033[0;90m'
-RESET='\033[0m'
-
-echo -e "${GRAY}          .-\"\"\"\"\"-.${RESET}"
-echo -e "${GRAY}        .'  ${RED}▄▄▄▄▄▄▄${GRAY}  '.${RESET}"
-echo -e "${GRAY}       /  ${RED}██████████${GRAY}  \\\\${RESET}"
-echo -e "${GRAY}      |  ${RED}████████████${GRAY}  |${RESET}   ${WHITE}______________________${RESET}"
-echo -e "${GRAY}      |  ${SKIN}( ${WHITE}o${SKIN}     ${WHITE}o${SKIN} )${GRAY}  |${RESET}  /                      \\\\"
-echo -e "${GRAY}      |  ${SKIN}   \\\\___/  ${GRAY}    |${RESET} |   H A D O U K E N !   |"
-echo -e "${GRAY}       \\\\   ${SKIN}\\\\___/${GRAY}    /${RESET}  \\\\______________________/"
-echo -e "${GRAY}        '.____.'${RESET}"
-echo -e "     ${WHITE}▄${GRAY}██████████████${WHITE}▄${RESET}"
-echo -e "    ${WHITE}██${RESET}${RED}▓▓▓▓▓▓▓▓▓▓▓▓▓▓${WHITE}██${RESET}"
-echo -e "   ${SKIN}██${RESET}  ${WHITE}||||||||||||${RESET}  ${SKIN}██${RESET}"
-echo -e "   ${SKIN}██${RESET}  ${WHITE}||||||||||||${RESET}  ${SKIN}██${RESET}"
-echo -e "    ${BLUE}▓▓${RESET}    ${WHITE}||||||||${RESET}    ${BLUE}▓▓${RESET}"
-echo -e "    ${BLUE}▓▓${RESET}   ${YELLOW}==========${RESET}   ${BLUE}▓▓${RESET}"
-echo -e "     ${GRAY}||${RESET}              ${GRAY}||${RESET}"
-echo -e "    ${GRAY}/${RESET}${WHITE}==${RESET}${GRAY}\\\\${RESET}          ${GRAY}/${RESET}${WHITE}==${RESET}${GRAY}\\\\${RESET}"
-echo
-echo -e "${RED}██████╗ ██╗   ██╗██╗   ██╗${RESET}"
-echo -e "${RED}██╔══██╗╚██╗ ██╔╝██║   ██║${RESET}"
-echo -e "${RED}██████╔╝ ╚████╔╝ ██║   ██║${RESET}"
-echo -e "${RED}██╔══██╗  ╚██╔╝  ██║   ██║${RESET}"
-echo -e "${RED}██║  ██║   ██║   ╚██████╔╝${RESET}"
-echo -e "${RED}╚═╝  ╚═╝   ╚═╝    ╚═════╝${RESET}"
-echo -e "${YELLOW}   THE ETERNAL WANDERER   ${RESET}"
-echo -e "${GRAY}────────────────────────────────${RESET}"
-echo -e "${WHITE}$(hostname)${RESET} • ${BLUE}$(date)${RESET}"
-echo -e "${GRAY}────────────────────────────────${RESET}"
+              ##*####+
+              *++#*#+##
+     =::::::.--=-:-:#
+    -:::::-.-=-====:-...-.
+    --:-:---*###=-*-:--::-+
+    =-:::-+#####+=-:.--=--+
+    =-=---=**:.....::------+
+      +=:::::::....:-=-*##+=+
+         -==:::::-+:=+-*##*=+
+        =--%%@@#++--:+=##++*
+        -:=%-:=#::-:-=
+      :. .+@=++@+:.::=
+     :.   =%-:-%=.  .:-
+    :..   ..-+-:.    .:
+    :.   ..:= -:...  .:-
+   -::....:=   -:. .:..::
+   -::...::-    ==:......=
+   -:.....:-      =:.....:+
+   -::::::-=       ==:...:=
+    +==-==           ===--=+
+   +=---==            +-----=+
+ ++*++==+             *==+=+#*
+EOF
